@@ -12,24 +12,24 @@ MongoDB
 Clone o Repositorio:
 
 
- 'git clone https://github.com/seu-user/web-server.git'
-'cd web-server'
+`git clone https://github.com/seu-user/web-server.git`
+`cd web-server`
 
 Construa a imagem docker
 
-'docker build -t web-server ' .
+`docker build -t web-server ` .
 
 
 Executar conteiner
 
-'docker run -p 5000:5000 web-server' 
+` docker run -p 5000:5000 web-server ` 
 
-Acessar a aplicação no endereço publicado 'https://localhost:5000' .
+Acessar a aplicação no endereço publicado ` https://localhost:5000` .
 
 Para iniciar o Banco MongoDB, use o Docker-compose:
 
 
-'docker-compose up -d '
+`docker-compose up -d `
 
 ⚙️ Pipeline
 

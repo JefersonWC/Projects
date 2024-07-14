@@ -14,11 +14,11 @@ Clone o Repositorio:
 
 `git clone https://github.com/seu-user/web-server.git`
 
-`cd web-server`
+`cd attus-project-web-server`
 
 Construa a imagem docker
 
-`docker build -t web-server ` .
+`docker build -t web-server .`
 
 
 Executar conteiner

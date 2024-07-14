@@ -13,6 +13,7 @@ Clone o Repositorio:
 
 
 `git clone https://github.com/seu-user/web-server.git`
+
 `cd web-server`
 
 Construa a imagem docker
